@@ -1,0 +1,1 @@
+typeof new Promise((resolve, reject) => {}) === 'object' //true
